@@ -1,0 +1,9 @@
+{
+    "require": {
+        "league/climate": "^3.2",
+        "nicolab/php-ftp-client": "dev-master",
+        "fabpot/goutte": "dev-master",
+        "rmccue/requests": "dev-master",
+        "anekdotes/file": "dev-master"
+    }
+}
